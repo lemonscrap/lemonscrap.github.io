@@ -12,6 +12,7 @@ I'm a qualified developer who got into Minecraft modding around 2011. I didn't r
 
 Here's a list of some of my personal projects, you might have heard of a few!
 
+****
 #### [Arcane World](https://minecraft.curseforge.com/projects/arcane-world)
 
 At the time of writing this (October 2018), Arcane World is still in beta. I'm proud of what this mod is turning into.
@@ -19,6 +20,7 @@ It's got randomly generated dungeons, awesome effects, unique items, instanced b
 
 It's a bit different from the rest of my mods, I generally stay with a "vanilla" theme, but this mod departs from that into an end product that I think is awesome.
 
+****
 #### [A.S.S.](https://minecraft.curseforge.com/projects/ass)
 
 Silly name aside, this is a unique mod. It changes the game's core mob spawning mechanic.
@@ -28,48 +30,59 @@ This mod changes it so the player can claim an area of land. Mobs can't spawn in
 
 While this also creates interesting gameplay, it also allows players to build aesthetically pleasing builds with varying light levels.
 
+****
 #### [Better Compass](https://minecraft.curseforge.com/projects/better-compass)
 
 This is a small mod, but one I really like. 
 
 It allows you to set the position that a compass is pointing at - Simple!
 
+****
 #### [AutoPlant](https://minecraft.curseforge.com/projects/autoplant)
 
 A mod that automatically plants saplings and seeds on the floor.
 
+****
 #### [Ender Hopper](https://minecraft.curseforge.com/projects/ender-hopper)
 
 Adds a hopper that can pull and push into ender chests!
 
+****
 #### [Fluid Funnel](https://minecraft.curseforge.com/projects/fluid-funnel)
 
 Vanilla-like fluid transport and storage.
 
+****
 #### [Mite2Shulker](https://minecraft.curseforge.com/projects/mite2shulker)
 
 A tiny mod that somehow got a lot of downloads. It allows endermites to burry into purpur, creating shulkers.
 
+****
 #### [Set Effect](https://minecraft.curseforge.com/projects/set-effect)
 
 A powerful mod that allows modpack creators to give the player effects when wearing combonations of armor
 
+****
 #### [Simple Teleporters](https://minecraft.curseforge.com/projects/simple-teleporters)
 
 One of my earlier mods, adds a teleporter!
 
+****
 #### [Simple Underground Biomes](https://minecraft.curseforge.com/projects/simple-underground-biomes)
 
 Adds several rock variants to spruce up the underground!
 
+****
 #### [The Mod That Lets You Punch Wool Off Sheep](https://minecraft.curseforge.com/projects/the-mod-that-lets-you-punch-wool-off-sheep)
 
 This mod lets you punch wool off sheep.
 
+****
 #### [Trap Expansion](https://minecraft.curseforge.com/projects/trap-expansion)
 
 Adds several vanilla styled trap blocks.
 
+****
 #### [Totem Expansion](https://minecraft.curseforge.com/projects/totem-expansion)
 
 Expands upon the vanilla games's totem of undying by adding several new totem varients.
