@@ -24,11 +24,13 @@ description: Custom Mod Commissions!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Commision Me: "commisions"
+  Links:
+    - Twitter: "https://twitter.com/"
+    - Github: "https://github.com/lemonszz"
+    - CurseForge: "https://minecraft.curseforge.com/dashboard/projects"
+    - Discord: "https://discord.gg/SyPnhBp"
+    - Donate :): "https://ko-fi.com/lemonszz"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
