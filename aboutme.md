@@ -10,7 +10,7 @@ I'm a qualified developer who got into Minecraft modding around 2011. I didn't r
 
 ### My Mods
 
-Here's a list of some of my personal projects, you might have heard of some!
+Here's a list of some of my personal projects, you might have heard of a few!
 
 ## [Arcane World](https://minecraft.curseforge.com/projects/arcane-world)
 
