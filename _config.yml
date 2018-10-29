@@ -25,6 +25,7 @@ description: Custom Mod Commissions!
 navbar-links:
   About Me: "aboutme"
   Commision Me: "commisions"
+  Pricing: "pricing"
   Links:
     - Twitter: "https://twitter.com/"
     - Github: "https://github.com/lemonszz"
@@ -75,6 +76,7 @@ author:
 social-network-links:
   rss: true
   email: "sam@lemons.party"
+  discord: SyPnhBp
 #  facebook: daattali
   github: lemonscrap
   twitter: lemonszz_
