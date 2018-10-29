@@ -14,6 +14,7 @@ I wont create any commissions that contain the following:
 
 I reserve the right to deny any commission for any reason.
 
+****
 ### How does it work?
 
 So you've got an idea for a mod? Just get in contact with me (see below) and we'll work out the terms.
@@ -21,11 +22,13 @@ Once all the terms are worked out, I'll begin work and keep you updated on the p
 
 Once I'm done I'll send you the final product.
 
+****
 ### How much does it cost?
 
 It depends on the mod.
 See the pricing page for more information.
 
+****
 ### How to contact me?
 
 You should contact me with as much information as possible.
@@ -45,3 +48,5 @@ Methods are listed from best way to contact me to worst.
 
 - Email
  - Currently closed
+
+****
