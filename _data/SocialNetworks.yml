@@ -98,5 +98,5 @@ yelp:
 
 discord:
   name: "Discord"
-  baseURL: "https://discord.gg/SyPnhBp"
+  baseURL: "https://discord.gg/"
   icon: "fa-discord"
