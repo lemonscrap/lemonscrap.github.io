@@ -28,6 +28,10 @@ See the pricing page for more information.
 
 ### How to contact me?
 
+You should contact me with as much information as possible.
+
+- 
+
 There are several ways to contact me.
 
 Methods are listed from best way to contact me to worst.
