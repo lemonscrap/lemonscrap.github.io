@@ -6,7 +6,7 @@ subtitle: Custom mods for you!
 
 ### What can you commission?
 
-You can basically contact me about any commission. 
+You can basically contact me about any commission.  
 I wont create any commissions that contain the following:
 
 - Content or features that break Mojangs EULA or Terms of Service
@@ -31,7 +31,7 @@ It depends on the mod.
 ****
 ### How to contact me?
 
-You should contact me with as much information as possible.
+You should contact me with as much information as possible.  
 - Description of the mod
 - Any time limits for the mod to be finished
 - Pricing information (See pricing page)

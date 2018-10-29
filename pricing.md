@@ -7,9 +7,9 @@ subtitle: I gotta eat
 ### Payment
 I don't want to beat around the bush with pricing. I'd rather be honest, I think it's best for everyone involved.
 
-All payments must go through PayPal.
-It is required that a payment of 60% of the full price is payed before work is started. 
-The final 40% will be payed before you recieve the final product.
+All payments must go through PayPal.  
+It is required that a payment of 60% of the full price is payed before work is started.   
+The final 40% will be payed before you recieve the final product.  
 
 ### The base cost
 
@@ -51,7 +51,8 @@ By default, the mod will be open source with the MIT licence.
 If you would rather the mod be closed source, a fee of $15 will be added and an All Rights Reserved licence will be applied, and full ownership of code and assets will be transfered to you.
 
 #### Self Hosting and/or Curse Points
-By default, the mod will be hosted on Curseforge and I will recieve 100% of the curse points.
+By default, the mod will be hosted on Curseforge and I will recieve 100% of the curse points.  
+
 If you would like to host the mod off Curseforge or would like the curse points generated, a fee of $15 will be applied
 
 #### Textures
@@ -63,11 +64,11 @@ If you would like me to get a professional artist to create you textures, the pr
 #### Bug Fixes
 By default, the mod will get free bug fixes for 60 days after the inital release.
 
-If you would like no bug fixes, the price of the mod will go down by $10 (Not recomended)
-If you would like extended bug fixes or would like bug fixes after the inital 60 days, the price will go up depending on how large the mod is.
+If you would like no bug fixes, the price of the mod will go down by $10 (Not recomended)  
+If you would like extended bug fixes or would like bug fixes after the inital 60 days, the price will go up depending on how large the mod is.  
 
 #### Major Minecraft Version Update
-By default, I wont update to major Minecraft versions.
+By default, I wont update to major Minecraft versions.  
 
 The price of a major Minecraft version update will depend on the size of the mod and how complicated the process to update to the new Minecraft version is.
 
