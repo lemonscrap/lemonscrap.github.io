@@ -40,13 +40,13 @@ There are several ways to contact me.
 Methods are listed from best way to contact me to worst.
 
 - Discord
- - [Join my discord server, PM me the information](https://discord.gg/SyPnhBp)
- - OR directly PM me (Lemon#6969)
+    - [Join my discord server, PM me the information](https://discord.gg/SyPnhBp)
+    - OR directly PM me (Lemon#6969)
 
 - Twitter
- - [DM me the information](https://twitter.com/lemonszz_)
+    - [DM me the information](https://twitter.com/lemonszz_)
 
 - Email
- - Currently closed
+    - Currently closed
 
 ****
