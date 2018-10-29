@@ -17,16 +17,16 @@ It's hard to name a price upfront, as mods vary greatly. It's unlikely your mod 
 I reserve the right to charge more or less than the prices list on this page.
 
 #### Small Mod - $30
-    - Just a few, small features
+- Just a few, small features
 
 #### Medium Mod - $50
-    - Not small, but not massive
+- Not small, but not massive
 
 #### Large Mod - $100
-    - Decent sized mod
+- Decent sized mod
 
 #### Very Large Mod - $150+
-    - If it's a very large mod, we should talk some more.
+- If it's a very large mod, we should talk some more.
 
 ****
 All mods will contain these things, see below on pricing to modify these.
