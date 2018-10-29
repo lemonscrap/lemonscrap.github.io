@@ -29,11 +29,11 @@ See the pricing page for more information.
 ### How to contact me?
 
 You should contact me with as much information as possible.
-
-- 
+- Description of the mod
+- Any time limits for the mod to be finished
+- Pricing information (See pricing page)
 
 There are several ways to contact me.
-
 Methods are listed from best way to contact me to worst.
 
 - Discord
