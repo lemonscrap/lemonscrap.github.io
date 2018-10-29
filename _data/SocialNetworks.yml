@@ -99,4 +99,4 @@ yelp:
 discord:
   name: "Discord"
   baseURL: "https://discord.gg/"
-  icon: "fa-discord"
+  icon: "fa-comments"
