@@ -11,7 +11,6 @@ All payments must go through PayPal.
 It is required that a payment of 60% of the full price is payed before work is started. 
 The final 40% will be payed before you recieve the final product.
 
-
 ### The base cost
 
 It's hard to name a price upfront, as mods vary greatly. It's unlikely your mod will cost the EXACT amount listed on this page, but it should only be used as a guide.

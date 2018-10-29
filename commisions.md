@@ -26,7 +26,7 @@ Once I'm done I'll send you the final product.
 ### How much does it cost?
 
 It depends on the mod.
-See the pricing page for more information.
+[See the pricing page for more information.](https://lemonscrap.github.io/pricing)
 
 ****
 ### How to contact me?
