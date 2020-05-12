@@ -3,6 +3,7 @@ layout: page
 title: Commissions
 subtitle: Custom mods for you!
 ---
+### COMMISSIONS ARE CLOSED
 
 ### What can you commission?
 
@@ -30,6 +31,7 @@ It depends on the mod.
 
 ****
 ### How to contact me?
+### COMMISSIONS ARE CLOSED
 
 You should contact me with as much information as possible.  
 - Description of the mod
@@ -40,8 +42,6 @@ There are several ways to contact me.
 Methods are listed from best way to contact me to worst.
 
 - Discord
-    - [Join my discord server, PM me the information](https://discord.gg/SyPnhBp)
-    - OR directly PM me (Lemon#6969)
 
 - Twitter
     - [DM me the information](https://twitter.com/lemonszz_)
